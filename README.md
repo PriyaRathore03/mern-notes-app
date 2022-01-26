@@ -1,8 +1,10 @@
 # MERN Stack - Notes App 
 
+## Author: Priya Rathore
+
 ## Demo: https://devat-notes.herokuapp.com/
 
-## Author: Priya Rathore
+
 
 
 ## Install dependencies for server 
