@@ -2,8 +2,8 @@
 
 ## Demo: https://devat-notes.herokuapp.com/
 
-## Author: Dev AT
-## Youtube tutorials: https://youtu.be/8_iYaOjIO-M
+## Author: Priya Rathore
+
 
 ## Install dependencies for server 
 ### `npm install`
